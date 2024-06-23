@@ -1,3 +1,3 @@
 # JavaScript Practice 
 
-## [https://www.w3resource.com/javascript-exercises/](Excercise)
+## [Excercise](https://www.w3resource.com/javascript-exercises/)
