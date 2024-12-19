@@ -1,2 +1,3 @@
-# BMI Calculator[https://bmi20.netlify.app/]
+# BMI Calculator
+## [click](https://bmi20.netlify.app/)
 
