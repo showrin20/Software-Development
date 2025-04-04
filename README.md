@@ -1,4 +1,4 @@
-# Step 1: Create project folder and initialize frontend & backend
+```# Step 1: Create project folder and initialize frontend & backend
 mkdir project-app && cd project-app
 npx create-react-app client
 mkdir server && cd server
@@ -125,3 +125,5 @@ export default App;' > src/App.js
 
 # Step 7: Done! 🎉
 echo "MERN project setup complete!"
+
+```
