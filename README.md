@@ -5,7 +5,9 @@ mkdir server && cd server
 npm init -y
 ```
 # Step 2: Install backend dependencies
-```npm install express mongoose cors dotenv```
+```
+npm install express mongoose cors dotenv
+```
 
 # Step 3: Create server files & folders
 ```
