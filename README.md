@@ -1,5 +1,5 @@
 # Roadmap
----
+
 
 ## Phase 1: Git & GitHub  
 **Resources:**
@@ -12,7 +12,7 @@
 - Create a small project (like a simple “Hello World” website or a basic HTML page) and manage it entirely using Git.  
 - Practice commits, branching, pull requests, and merge conflict resolution by inviting peers to contribute.
 
----
+
 
 ## Phase 2: Introduction to Web Development  
 **Resources:**
@@ -24,7 +24,7 @@
 - Build a multi-page website that explains how the web works (HTTP, browsers, servers).  
 - Include sections on what makes a site work (HTML, CSS, JS) and use basic web dev concepts to illustrate these ideas.
 
----
+
 
 ## Phase 3: HTML5 Fundamentals  
 **Resources:**
@@ -36,7 +36,7 @@
 - Create a well-structured portfolio using semantic HTML5 tags.  
 - Include sections like About, Projects, and Contact to practice using header, footer, article, section, and aside elements.
 
----
+
 
 ## Phase 4: CSS3 & Responsive Design  
 **Resources:**
@@ -48,7 +48,7 @@
 - Design a landing page with advanced CSS techniques: Flexbox, Grid, media queries, and animations.  
 - Ensure the design adapts beautifully across mobile, tablet, and desktop views.
 
----
+
 
 ## Phase 5: JavaScript Essentials  
 **Resources:**
@@ -61,7 +61,7 @@
 - Create an interactive to-do list that allows users to add, mark complete, and remove tasks.  
 - Manipulate the DOM with vanilla JavaScript, reinforcing variables, functions, arrays, loops, and events.
 
----
+
 
 ## Phase 6: Advanced JavaScript & NodeJS  
 **Resources:**
@@ -75,7 +75,7 @@
 - Incorporate advanced concepts like asynchronous programming, callbacks, promises, closures, and module systems.
 - Bonus: Package a small utility as an npm module.
 
----
+
 
 ## Phase 7: React Fundamentals  
 **Resources:**
@@ -88,7 +88,7 @@
 - Build a React app that fetches data from a movie API, displays lists of movies, and uses components, state, props, and hooks.
 - Practice routing (React Router) and basic state management.
 
----
+
 
 ## Phase 8: Backend Development with ExpressJS and MongoDB  
 **Resources:**
@@ -102,7 +102,7 @@
 - Implement authentication (JWT), data validation, error handling, and file upload features.
 - Organize your code following the MVC pattern.
 
----
+
 
 ## Phase 9: Database Concepts  
 **Resources:**
@@ -115,7 +115,7 @@
 - Design a project that allows managing product inventories using either SQL or NoSQL.
 - Compare data modeling, performance, and scalability aspects.
 
----
+
 
 ## Phase 10: Docker  
 **Resources:**
@@ -127,7 +127,7 @@
 - Containerize your previously built projects (frontend and backend) using Docker.  
 - Create a Docker Compose file to manage multi-container setups (e.g., Express server, MongoDB, and React app).
 
----
+
 
 ## Phase 11: CI/CD Pipeline  
 **Resources:**
@@ -140,7 +140,7 @@
 - Set up a CI/CD pipeline using GitHub Actions (or another tool) that automatically tests your code (unit and integration tests) and deploys your app (e.g., to a staging environment or AWS).
 - Practice branch management and automated workflows.
 
----
+
 
 ## Phase 12: Testing & QA  
 **Resources:**
@@ -153,7 +153,7 @@
 - Enhance one of your existing projects by adding comprehensive unit, integration, and end-to-end tests.  
 - Apply TDD principles by writing tests before code to ensure a robust, maintainable codebase.
 
----
+
 
 ## Phase 13: Deploy with Amazon Web Services (AWS)  
 **Resources:**
@@ -167,7 +167,7 @@
 - Use services such as EC2, S3, or Elastic Beanstalk, and configure domain and SSL certificates.
 - Optionally, integrate AWS services (like DynamoDB or Lambda) to add extra functionality.
 
----
+
 
 ## Phase 14: Final Project  
 **Project Idea:**  
@@ -181,7 +181,7 @@
 - Frontend (React), backend (Express, Node.js, MongoDB), version control (Git/GitHub), responsive design (HTML/CSS), containerization (Docker), automated testing & CI/CD pipelines, and cloud deployment (AWS).  
 - Each component of your final project will reinforce the concepts you’ve learned in earlier phases while also challenging you to integrate them into one cohesive, production-ready application.
 
----
+
 
 ### Final Tips
 
