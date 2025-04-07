@@ -182,11 +182,14 @@ You should now be ready to **build fullstack applications with confidence**:
 - Unit + Integration testing
 - Use TypeScript where needed
 
-### Final Project Ideas:
+# Final Project Ideas:
 1. **E-commerce Site** with admin dashboard, cart, payment system  
 2. **Inventory/Employee Management System**  
 3. **Appointment Booking System** with calendars, roles, reminders  
 4. **AI Enhancements:**  
    - Chatbots with NLP  
    - Product recommendations  
-   - Smart scheduling  
+   - Smart scheduling
+  
+### [LangChain Crash Course For Beginners 2025 | LangChain V0.3 LATEST!](https://youtu.be/at6XrRRdOQo?si=3lFfWpSCrQ-jj03X)
+
