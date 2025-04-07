@@ -112,7 +112,7 @@
 - **Logging**
 - **TypeScript in Node**
 
-
+### [Learn MERN Stack with Project in 2 Hours](https://youtu.be/DJ5iIo4AWDg?si=yeTZGqifwxrg87P-)
 
 ## **🗃️ Module 9: Database Concepts**
 ### Key Concepts:
