@@ -192,4 +192,4 @@ You should now be ready to **build fullstack applications with confidence**:
    - Smart scheduling
   
 ### [LangChain Crash Course For Beginners 2025 | LangChain V0.3 LATEST!](https://youtu.be/at6XrRRdOQo?si=3lFfWpSCrQ-jj03X)
-
+### [System Design was HARD until I Learned these 30 Concepts](https://youtu.be/s9Qh9fWeOAk?si=rzu1OJU627wJxQaR)
