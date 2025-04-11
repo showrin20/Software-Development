@@ -114,6 +114,8 @@
 
 ### [Learn MERN Stack with Project in 2 Hours](https://youtu.be/DJ5iIo4AWDg?si=yeTZGqifwxrg87P-)
 
+##[MERN Crash Course | JWT Authentication, Redux Toolkit, Deployment & More](https://youtu.be/R4AhvYORZRY?si=b8cdGdpZ8Resw810)
+
 ## **🗃️ Module 9: Database Concepts**
 ### Key Concepts:
 - **SQL vs NoSQL**
